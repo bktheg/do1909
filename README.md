@@ -12,3 +12,6 @@ Die Modelle sind grob nach ihrer Anschrift organisiert. Das historische Rathaus 
 * Markt - Kandelaber
 * Markt - Kiosk
 * Markt - Marktstand
+
+## Lizenz
+Alle Modelle können im Rahmen der CC BY 4.0 verwendet werden.
