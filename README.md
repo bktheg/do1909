@@ -6,15 +6,23 @@ Alle hier bereitgestellten Modelle sind bereinigte Versionen der von mir selbst 
 ## Aufbau
 Die Modelle sind grob nach ihrer Anschrift organisiert. Das historische Rathaus hatte die Anschrift Markt 14, das Modell findet sich also unter "3d/modelle/markt/markt 14". Allgemeine Ressourcen finden sich in der Regel unter "3d/blender/"..
 
+## Aufbau der einzelnen Blender-Dateien
+Die meisten Modelle bestehen aus einem high-poly und einem low-poly model. Ersteres ist für das Rendering in Blender bestimmt, letzteres für Echtzeitengines wie UE4. Das high-poly model befindet sich in Blender im Layer 0, das low-poly model im Layer 5. Grob gesagt ist der erste 5x2 Layerblock für high-, der zweite Block für low-poly vorgesehen. Das high-poly model ist zuden einer Gruppe zugeordnet, die der Straßenbezeichnung entspricht (z.B. "Markt 12"). Diese Gruppe wird dann in der Hauptszene mittels linking eingebunden. Daneben gibt es noch eine Vielzahl an Export_*-Gruppen. Diese dienen zum Export nach Substance Painter, um dort dann die Materialien für das low-poly model zu generieren. Die Substance Painter-Dateien werde ich nicht hier einstellen, da sie schlicht viel zu groß sind.
+Manche Modelle haben evt. auch eine Beleuchtung. Die Lampen befinden sich dann in Layer 10 und sind über eine separate Gruppe in die Hauptszene einbindbar.
+Sehr komplexe Modelle wie das Rathaus sind hiervon etwas abweichend (und eher "gewachsen") organisiert.
+
 ## Vorhandene Modelle (1909)
-* Markt 4 (Adlerapotheke)
-* Markt 10 (Krone am Markt)
-* Markt 12 (Haus zum Spiegel)
-* Markt 14 (Historisches Rathaus)
-* Markt 17
-* Markt - Kandelaber
-* Markt - Kiosk
-* Markt - Marktstand
+* Markt
+** Markt 4 (Adlerapotheke)
+** Markt 10 (Krone am Markt)
+** Markt 12 (Haus zum Spiegel)
+** Markt 14 (Historisches Rathaus)
+** Markt 17
+** Markt - Kandelaber
+** Markt - Kiosk
+** Markt - Marktstand
+* Schwarze Brüderstraße
+** Schwarze Brüderstraße 8 (Gasthaus zum Drachen)
 * Straßenmöblierung
 ** Kleine Laterne (Markt)
 ** Litfaßsäule
