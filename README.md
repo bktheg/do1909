@@ -10,6 +10,7 @@ Die Modelle sind grob nach ihrer Anschrift organisiert. Das historische Rathaus 
 * Markt 10 (Krone am Markt)
 * Markt 12 (Haus zum Spiegel)
 * Markt 14 (Historisches Rathaus)
+* Markt 14 - Neubauprojekt von 1891 (Wiethase)
 * Markt 17
 * Markt - Kandelaber
 * Markt - Kiosk
