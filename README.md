@@ -15,6 +15,10 @@ Die Modelle sind grob nach ihrer Anschrift organisiert. Das historische Rathaus 
 * Markt - Kandelaber
 * Markt - Kiosk
 * Markt - Marktstand
+* Straßenmöblierung
+** Kleine Laterne (Markt)
+** Litfaßsäule
+** Großer Mast
 
 ## Sonstige Modelle 
 * Markt 14 - Neubauprojekt von 1891 (Wiethase)
