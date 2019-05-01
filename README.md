@@ -1,7 +1,7 @@
 # Dortmund 1909 - 3D Modelle (Blender)
 
 Die hier bereitgestellten Modelle gehören größtenteils zum Projekt Dortmund 1909, einem Nachbau des Markts und einer Umgebung in der Zeitschicht von 1909. Zum Teil handelt es sich aber auch um einzelne Projekte zu bestimmten historischen Gebäuden Dortmunds oder auch nur um projektierte, aber nie realisierte Bauvorhaben. Gerade diese Modelle sind in der Regel unvollständig, d.h. ich habe nur einzelne Fassaden erstellt. 
-Alle hier bereitgestellten Modelle sind bereinigte Versionen der von mir selbst verwendeten. Es handelt sich nur um ausgewählte Modelle und nicht um den gesamten Dortmunder Markt mit seiner Umgebung. Die Modelle werden unregemäßig aktualisiert und um weitere Objekte ergänzt. Texturen/Materialien fehlen möglicherweise.
+Alle hier bereitgestellten Modelle sind bereinigte Versionen der von mir selbst verwendeten. Es handelt sich nur um ausgewählte Modelle und nicht um den gesamten Dortmunder Markt mit seiner Umgebung. Die Modelle werden unregemäßig aktualisiert und um weitere Objekte ergänzt. Texturen/Materialien fehlen möglicherweise. Die Auswahl der hier veröffentlichen Modelle ist teilweise zufällig, teilweise bestimmt durch den momentanen Fertigstellungsgrad.
 
 ## Aufbau
 Die Modelle sind grob nach ihrer Anschrift organisiert. Das historische Rathaus hatte die Anschrift Markt 14, das Modell findet sich also unter "3d/modelle/markt/markt 14". Allgemeine Ressourcen finden sich in der Regel unter "3d/blender/"..
@@ -23,6 +23,7 @@ Sehr komplexe Modelle wie das Rathaus sind hiervon etwas abweichend (und eher "g
 ** Markt - Marktstand
 * Schwarze Brüderstraße
 ** Schwarze Brüderstraße 8 (Gasthaus zum Drachen)
+** Schwarze Brüderstraße 12
 * Straßenmöblierung
 ** Kleine Laterne (Markt)
 ** Litfaßsäule
