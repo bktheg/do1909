@@ -29,6 +29,8 @@ Sehr komplexe Modelle wie das Rathaus sind hiervon etwas abweichend (und eher "g
     * Kleine Laterne (Markt)
     * Litfaßsäule
     * Großer Mast
+* Westenhellweg
+	* Westenhellweg 5
 
 ## Sonstige Modelle 
 * Markt 14 - Neubauprojekt von 1891 (Wiethase)
