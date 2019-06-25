@@ -31,6 +31,7 @@ Sehr komplexe Modelle wie das Rathaus sind hiervon etwas abweichend (und eher "g
     * Großer Mast
 * Westenhellweg
 	* Westenhellweg 5
+	* Westenhellweg 7
 
 ## Sonstige Modelle 
 * Markt 14 - Neubauprojekt von 1891 (Wiethase)
