@@ -12,9 +12,14 @@ Die meisten Modelle bestehen aus einem high-poly und einem low-poly model. Erste
 Manche Modelle haben evt. auch eine Beleuchtung. Die Lampen befinden sich dann in Layer 10 und sind über eine separate Gruppe in die Hauptszene einbindbar.
 Sehr komplexe Modelle wie das Rathaus sind hiervon etwas abweichend (und eher "gewachsen") organisiert.
 
+## FBX Exporte
+Für einzelne Modelle liegen auch die FBX Exporte sowie die zugehörigen Texturen vor. Diese sind eigentlich für einen Import in UE4 vorgesehen, sollten aber auch in anderen Engines funktionieren.
+Die FBX-Dateien liegen im Ordner "fbx" auf oberster Ebene. Die Organisation des Ordners folgt ungefähr der des 3d-Ordners. Die Texturen eines FBX-Modells liegen in einem eigenen Unterordner "textures".
+Zu beachten ist, dass ein Gebäude aus sehr vielen FBX-Dateien besteht, die in der jeweiligen Engine zusammengefügt werden müssen. Teilweise sind mehrere Instanzen eines Teilmodells notwendig. Die "Bauanweisung" liefert die Blender-Datei.
+
 ## Vorhandene Modelle (1909)
 * Hiltropwall
-	* Synagoge
+	* Synagoge (+ FBX)
 * Markt
     * Markt 4 (Adlerapotheke)
     * Markt 10 (Krone am Markt)
