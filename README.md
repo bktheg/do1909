@@ -13,10 +13,13 @@ Manche Modelle haben evt. auch eine Beleuchtung. Die Lampen befinden sich dann i
 Sehr komplexe Modelle wie das Rathaus sind hiervon etwas abweichend (und eher "gewachsen") organisiert.
 
 ## Vorhandene Modelle (1909)
+* Hiltropwall
+	* Synagoge
 * Markt
     * Markt 4 (Adlerapotheke)
     * Markt 10 (Krone am Markt)
     * Markt 12 (Haus zum Spiegel)
+	* Markt 13
     * Markt 14 (Historisches Rathaus)
     * Markt 17
     * Markt - Kandelaber
@@ -30,6 +33,8 @@ Sehr komplexe Modelle wie das Rathaus sind hiervon etwas abweichend (und eher "g
     * Litfaßsäule
     * Großer Mast
 * Westenhellweg
+	* Westenhellweg 2
+	* Westenhellweg 4
 	* Westenhellweg 5
 	* Westenhellweg 7
 
